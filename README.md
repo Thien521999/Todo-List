@@ -4,8 +4,7 @@ truy cập http://localhost:3000 để xem app trong browser.
 
 Trang sẽ tự reload khi thay đổi source code.
 
-## App được deploy trên vercel
-https://mini-shopping-cart.vercel.app/
+
 
 
 
